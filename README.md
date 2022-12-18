@@ -1,3 +1,5 @@
+All credentials are fake, and are merely examples.
+
 A module to scrape and parse LinkedIn. LinkedinCrawler handles the web scraping, and LinkedinParser extracts relevant information from the returned HTML. 
 
 The crawler is initiated using
